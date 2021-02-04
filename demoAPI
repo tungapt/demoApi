@@ -1,1 +1,26 @@
-{"title":"\"Lớp 12\"","subjects":[{"id":1},{"title":"Môn toán"}]}
+{
+        title: 'Lớp 12',
+        subjects: [
+            {
+                id: 1,
+                title: 'Môn toán',
+            },
+            {
+                id: 2,
+                title: 'Môn văn',
+            },
+        ],
+    },
+    {
+        title: 'Lớp 11',
+        subjects: [
+            {
+                id: 1,
+                title: 'Môn toán',
+            },
+            {
+                id: 2,
+                title: 'Môn văn',
+            },
+        ],
+    },
